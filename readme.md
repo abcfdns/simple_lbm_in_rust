@@ -6,5 +6,5 @@ If you know original one, please check [sample codes](https://www.morikita.co.jp
 
 ## Usage
 ```shell
-cargo run
+cargo run --release
 ```
